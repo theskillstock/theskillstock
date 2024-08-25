@@ -1,38 +1,78 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zubair</h1>
-<h3 align="center">Skilled full stack developer creating smooth and efficient websites for better user experiences</h3>
+# Hi, I'm Muhammad Zubair! 👋
 
-- 🔭 I’m currently working on [Androlab](https://www.androlab.co.za/)
+**Full-Stack Web Developer | PHP & Laravel Specialist**
 
-- 🌱 I’m currently learning **Node Js**
+---
 
-- 👨‍💻 All of my projects are available at [https://mz.theskillstock.com/](https://mz.theskillstock.com/)
+### About Me
 
-- 📝 I regularly write articles on [https://theskillstock.com/](https://theskillstock.com/)
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/92684758?s=400&u=ba488e810607ede0e407c5f1dfe1653a7a13213f&v=4" />
 
-- 💬 Ask me about **Laravel, Wordpress**
+I am a dedicated and detail-oriented full-stack web developer with over three years of professional experience in creating dynamic and scalable web applications. My primary expertise lies in PHP and Laravel, and I am highly proficient in utilizing Laravel’s ecosystem, particularly Livewire, to build modern, interactive web applications.
 
-- 📫 How to reach me **m.zubair9824@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theskillstock&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=theskillstock&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theskillstock&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-- 📄 Know about my experiences [https://mz.theskillstock.com/](https://mz.theskillstock.com/)
+### Technical Skills
 
-- ⚡ Fun fact **Bananas are berries, but strawberries aren't!**
+- **Programming Languages:** PHP, JavaScript
+- **Frameworks & Libraries:** Laravel, Livewire
+- **Tools & Packages:** Laravel Breeze, PowerGrid, and various Livewire-related packages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/devzubair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devzubair" height="30" width="40" /></a>
-<a href="https://twitter.com/theskillstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theskillstock" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-zubair-4832051b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-zubair-4832051b3" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/muhammad-zubair/100011961947438/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/muhammad-zubair/100011961947438/" height="30" width="40" /></a>
-<a href="https://instagram.com/_mr.zubii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.zubii" height="30" width="40" /></a>
-<a href="https://medium.com/@mr.php9824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mr.php9824" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hashhives" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hashhives" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.buymeacoffee.com/theskillstock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.buymeacoffee.com/theskillstock" height="30" width="40" /></a>
-</p>
+### Professional Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+Throughout my career, I have successfully developed and delivered a diverse range of projects, including:
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/theskillstock"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theskillstock" /></a></p><br><br>
+- **Custom Web Applications:** Tailored solutions designed to meet unique business needs.
+- **E-commerce Platforms:** Comprehensive online stores with robust backend systems and seamless user interfaces.
+- **RESTful APIs:** Efficient and scalable APIs for various applications, ensuring reliable data exchange and integration.
+- **Administrative Dashboards:** Intuitive admin panels for content management and analytics, built to enhance usability and performance.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theskillstock&show_icons=true&locale=en" alt="theskillstock" /></p>
+### What I Excel At
+
+- **Laravel:** Expert in building complex applications using Laravel’s extensive features and tools.
+- **Livewire:** Proficient in creating reactive components that enhance user experience without leaving the Laravel ecosystem.
+- **Breeze:** Skilled in implementing secure and scalable authentication systems with Laravel Breeze.
+- **PowerGrid:** Adept at managing and visualizing large data sets efficiently with PowerGrid.
+
+### Professional Philosophy
+
+I am passionate about writing clean, maintainable code and continuously exploring new technologies and best practices to improve my craft. My goal is to build software that not only meets client requirements but also provides exceptional user experiences.
+
+### Contact Information
+
+I am always interested in discussing new projects, collaboration opportunities, and innovative ideas. Please feel free to reach out to me through the following channels:
+
+<div align="left">
+  <a href="https://www.instagram.com/hashhives" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
+  </a>
+  <a href="mailto:mr.php9824@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-zubair-4832051b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo" />
+</div>
+
+Thank you for visiting my profile. I look forward to connecting with you!
+
+### Technologies I Use
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+</div>
